@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+
+# --- Node ---
+node_modules/
+package-lock.json
+
+# --- MATLAB / Simulink ---
+*.asv
+*.autosave
+*.m~
+slprj/
+mpc_multihazard_matlab/simulink/*.slx
+mpc_multihazard_matlab/simulink/*.slxc
+mpc_multihazard_matlab/simulink/slprj/
+
+# --- Generated artifacts (regenerable from scripts) ---
+mpc_multihazard_matlab/results/*.npz
+mpc_multihazard_matlab/results/*.mat
+mpc_multihazard_matlab/results/*.png
+mpc_multihazard_matlab/results/summary*.json
+mpc_multihazard_matlab/results/tuning_log.mat
+mpc_multihazard/results*.png
+mpc_multihazard/__pycache__/
+mpc_multihazard/src/__pycache__/
+
+# --- Output reports (regenerable) ---
+*.docx
+!docs/**/*.docx
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# --- Logs ---
+*.log

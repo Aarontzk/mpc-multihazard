@@ -1,3 +1,7 @@
+# --- AI assistant internal files ---
+CLAUDE.md
+AGENTS.md
+
 # --- Python ---
 __pycache__/
 *.pyc

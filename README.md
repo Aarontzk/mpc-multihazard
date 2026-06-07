@@ -353,8 +353,6 @@ Detail teknis di [`Laporan_MPC_Multi_Hazard.docx`](Laporan_MPC_Multi_Hazard.docx
 
 Riset internal DRPM-ITS 2026, target publikasi jurnal Q3 Scopus.
 
-Sitasi yang disarankan:
-
 ```
 Bilfaqih, Y., Sahal, M., Hidayat, Z., Gamayanti, N. (2026).
 "Pemodelan dan Simulasi Sistem Kontrol Adaptif Multi-Hazard
